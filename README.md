@@ -1,36 +1,36 @@
 # Surface Pro 3 Documentation
 
-Archlinux on the Microsoft Surface Pro 3.
+Arch Linux and Antergos on the Microsoft Surface Pro 3. I forked this because I wanted to reflect that there's more stuff working than initially thought.
 
 ## Hardware
 
-* [ ] [Type Cover 3][#4]
-  * [ ] keyboard
-  * [ ] trackpad
-* [ ] Bluetooth [*Not working at all*][#5]
+* [x] [Type Cover 3][#1]
+  * [x] keyboard
+  * [x] trackpad [*Partially*]
+* [x] Bluetooth [#5]
 * [x] Touch screen with multitouch support
 * [x] [N-trig touch pen][#8] need configuration tips
 * [x] [Built-in microphone][#3]
 * [x] [Speakers][#3]
 * [x] [Headphone jack][#3]
 * [x] Wifi *Works* but [issues with resume from hibernate][#2]
-* [ ] Cameras *not working at all*
-* [ ] MicroSD reader *untested*
-* [ ] [MiniDisplay Port][#1]
+* [x] Cameras
+* [x] MicroSD reader
+* [ ] [MiniDisplay Port] [*untested*]
 * [ ] Docking station *not yet released*
-* [ ] [Suspend to RAM][#6]
-* [ ] [Suspend to SSD][#2]
+* [ ] [Suspend to RAM][#6] [*working, but with issues*]
+* [ ] [Suspend to SSD][#2] [*working, but with issues*]
 
 
 ## Software
 
 * [x] [Full disk encryption][#7]
-* [ ] HiDPI Support
-* [ ] Multitouch gestures
-* [ ] Onscreen Keyboard
-* [ ] Rotation recognition and action
+* [x] HiDPI Support
+* [x] Multitouch gestures [*touchgreen multitouch gestures working fine on GNOME Shell 3.14 and up*]
+* [x] Onscreen Keyboard
+* [ ] Rotation recognition and action [*untested, but there's supposedly a way to get it working*]
 
-[#1]: https://github.com/nuclearsandwich/surface3-archlinux/issues/1
+[#1]: https://github.com/Vistaus/surface3-arch-antergoslinux/issues/1
 [#2]: https://github.com/nuclearsandwich/surface3-archlinux/issues/2
 [#3]: https://github.com/nuclearsandwich/surface3-archlinux/issues/3
 [#4]: https://github.com/nuclearsandwich/surface3-archlinux/issues/4
