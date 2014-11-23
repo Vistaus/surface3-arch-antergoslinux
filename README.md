@@ -10,7 +10,7 @@ Arch Linux and Antergos on the Microsoft Surface Pro 3. I forked this because I 
 * [x] [WiFi][#2] *works, but issues with resume from hibernate*
 * [x] [Bluetooth][#2]
 * [x] Touch screen with multitouch support
-* [x] [N-trig touch pen][#8] *works, even the pressure sensitivity works, but needs configuration tips*
+* [x] [N-trig touch pen][#8] *works, even the pressure sensitivity works, except for the OneNote button on top and there's no way to configure it*
 * [x] [Built-in microphone]
 * [x] [Speakers]
 * [x] [Headphone jack]
