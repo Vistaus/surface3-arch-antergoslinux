@@ -27,14 +27,14 @@ Arch Linux and Antergos on the Microsoft Surface Pro 3. I forked this because I 
 * [x] [Full disk encryption][#7]
 * [x] HiDPI Support
 * [x] Multitouch gestures [*touchgreen multitouch gestures working fine on GNOME Shell 3.14 and up*]
-* [x] Onscreen Keyboard
+* [x] [Onscreen Keyboard][#5]
 * [ ] Rotation recognition and action [*untested, but there's supposedly a way to get it working*]
 
 [#1]: https://github.com/Vistaus/surface3-arch-antergoslinux/issues/1
 [#2]: https://github.com/Vistaus/surface3-arch-antergoslinux/issues/2
 [#3]: https://github.com/Vistaus/surface3-arch-antergoslinux/issues/3
 [#4]: https://github.com/Vistaus/surface3-arch-antergoslinux/issues/4
-[#5]: https://github.com/nuclearsandwich/surface3-archlinux/issues/5
+[#5]: https://github.com/Vistaus/surface3-arch-antergoslinux/issues/5
 [#6]: https://github.com/nuclearsandwich/surface3-archlinux/issues/6
 [#7]: https://github.com/nuclearsandwich/surface3-archlinux/issues/7
 [#8]: https://github.com/nuclearsandwich/surface3-archlinux/issues/8
