@@ -13,7 +13,7 @@ Arch Linux and Antergos on the Microsoft Surface Pro 3. I forked this because I 
 * [x] [N-trig Surface Pen][#4] *works, except for the OneNote button on top*
 * [x] Built-in microphone
 * [x] Speakers
-* [x] [Headphone jack]
+* [x] Headphone jack
 * [x] [Cameras][#3]
 * [x] MicroSD card reader
 * [ ] MiniDisplay Port [*untested*]
@@ -26,8 +26,8 @@ Arch Linux and Antergos on the Microsoft Surface Pro 3. I forked this because I 
 
 * [x] [Full disk encryption][#7]
 * [x] HiDPI Support
-* [x] Multitouch gestures [*touchgreen multitouch gestures working fine on GNOME Shell 3.14 and up*]
-* [x] [Onscreen Keyboard][#5]
+* [x] [Multitouch gestures][#6]
+* [x] [Onscreen keyboard][#5]
 * [ ] Rotation recognition and action [*untested, but there's supposedly a way to get it working*]
 
 [#1]: https://github.com/Vistaus/surface3-arch-antergoslinux/issues/1
@@ -35,7 +35,7 @@ Arch Linux and Antergos on the Microsoft Surface Pro 3. I forked this because I 
 [#3]: https://github.com/Vistaus/surface3-arch-antergoslinux/issues/3
 [#4]: https://github.com/Vistaus/surface3-arch-antergoslinux/issues/4
 [#5]: https://github.com/Vistaus/surface3-arch-antergoslinux/issues/5
-[#6]: https://github.com/nuclearsandwich/surface3-archlinux/issues/6
+[#6]: https://github.com/Vistaus/surface3-arch-antergoslinux/issues/6
 [#7]: https://github.com/nuclearsandwich/surface3-archlinux/issues/7
 [#8]: https://github.com/nuclearsandwich/surface3-archlinux/issues/8
 
