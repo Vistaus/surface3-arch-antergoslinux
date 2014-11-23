@@ -7,7 +7,7 @@ Arch Linux and Antergos on the Microsoft Surface Pro 3. I forked this because I 
 * [x] [Type Cover 3][#1]
   * [x] keyboard
   * [x] trackpad [*Partially*]
-* [x] Wifi *Works* but [issues with resume from hibernate][#2]
+* [x] Wifi *Works but [issues with resume from hibernate]* [#2]
 * [x] Bluetooth [#2]
 * [x] Touch screen with multitouch support
 * [x] [N-trig touch pen][#8] need configuration tips
