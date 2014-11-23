@@ -1,25 +1,26 @@
 # Microsoft Surface Pro 3 Documentation: Antergos & Arch Linux
 
-Arch Linux and Antergos on the Microsoft Surface Pro 3. I forked this because I wanted to reflect that there's more stuff working than initially thought. Everything with a checkmark is working, everything without a checkmark isn't or might be working but is untested. Sometimes something partially works. This is denoted by additional info in cursive font. Also, you can click on most of the component names to get more info, either for getting that component to work (and seeing what doesn't work, should that be the case) or for improving the experience (for example the Onscreen keyboard one; that one's linked to a how-to I wrote).
+***Arch Linux and Antergos on the Microsoft Surface Pro 3. I forked this because I wanted to reflect that there's more stuff working than initially thought and I wanted to add things like clear how-to's. Everything with a checkmark is working, everything without a checkmark isn't or might be working but is untested. Sometimes something partially works. This is denoted by additional info in cursive font. Also, you can click on most of the component names to get more info, either for getting that component to work (and seeing what doesn't work, should that be the case) or for improving the experience (for example the Onscreen keyboard one; that one's linked to a how-to I wrote).***
 
 ## Hardware
 
 * [x] [Type Cover 3][#1]
   * [x] keyboard
-  * [x] trackpad [*partially*]
-* [x] [WiFi][#2] *works, but issues with resume from hibernate*
-* [x] [Bluetooth][#2] *works, after installing the driver*
-* [x] Touch screen with multitouch support
-* [x] [N-trig Surface Pen][#4] *works, except for the OneNote button on top*
+  * [x] trackpad - *partially*
+* [x] [WiFi][#2] - *works, but issues with resume from hibernate*
+* [x] [Bluetooth][#2] - *works, but only after installing the driver*
+* [x] Touchscreen with multitouch support
+* [x] [N-trig Surface Pen][#4] - *works, except for the OneNote button on top*
 * [x] Built-in microphone
 * [x] Speakers
 * [x] Headphone jack
 * [x] [Cameras][#3]
 * [x] MicroSD card reader
-* [ ] MiniDisplay Port [*untested*]
-* [ ] Docking station *not yet released*
-* [ ] [Suspend to RAM][#2] [*working, but with issues*]
-* [ ] [Suspend to SSD][#2] [*working, but with issues*]
+* [ ] MiniDisplay Port - *untested*
+* [ ] Docking station - *not yet released*
+* [ ] [Suspend to RAM][#2] - *working, but with issues*
+* [ ] [Suspend to SSD][#2] - *working, but with issues*
+* [ ] Hardware buttons (Power, Volume and touch-sensitive Windows key)
 
 
 ## Software
@@ -28,7 +29,7 @@ Arch Linux and Antergos on the Microsoft Surface Pro 3. I forked this because I 
 * [x] [HiDPI Support][#7]
 * [x] [Multitouch gestures][#6]
 * [x] [Onscreen keyboard][#5]
-* [ ] Rotation recognition and action [*untested, but there's supposedly a way to get it working*]
+* [ ] Rotation recognition and action - *untested, but there's supposedly a way to get it working, needs investigation*
 
 [#1]: https://github.com/Vistaus/surface3-arch-antergoslinux/issues/1
 [#2]: https://github.com/Vistaus/surface3-arch-antergoslinux/issues/2
