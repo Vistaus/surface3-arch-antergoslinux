@@ -6,19 +6,19 @@ Arch Linux and Antergos on the Microsoft Surface Pro 3. I forked this because I 
 
 * [x] [Type Cover 3][#1]
   * [x] keyboard
-  * [x] trackpad [*Partially*]
+  * [x] trackpad [*partially*]
 * [x] Wifi *Works but [issues with resume from hibernate]* [#2]
 * [x] Bluetooth [#2]
 * [x] Touch screen with multitouch support
-* [x] [N-trig touch pen][#8] need configuration tips
-* [x] [Built-in microphone][#3]
-* [x] [Speakers][#3]
-* [x] [Headphone jack][#3]
-* [x] Cameras
+* [x] [N-trig touch pen][#8] *works, even the pressure sensitivity works, but needs configuration tips*
+* [x] [Built-in microphone]
+* [x] [Speakers]
+* [x] [Headphone jack]
+* [x] Cameras [#3]
 * [x] MicroSD reader
 * [ ] [MiniDisplay Port] [*untested*]
 * [ ] Docking station *not yet released*
-* [ ] [Suspend to RAM][#6] [*working, but with issues*]
+* [ ] [Suspend to RAM][#2] [*working, but with issues*]
 * [ ] [Suspend to SSD][#2] [*working, but with issues*]
 
 
@@ -32,7 +32,7 @@ Arch Linux and Antergos on the Microsoft Surface Pro 3. I forked this because I 
 
 [#1]: https://github.com/Vistaus/surface3-arch-antergoslinux/issues/1
 [#2]: https://github.com/Vistaus/surface3-arch-antergoslinux/issues/2
-[#3]: https://github.com/nuclearsandwich/surface3-archlinux/issues/3
+[#3]: https://github.com/Vistaus/surface3-arch-antergoslinux/issues/3
 [#4]: https://github.com/nuclearsandwich/surface3-archlinux/issues/4
 [#5]: https://github.com/nuclearsandwich/surface3-archlinux/issues/5
 [#6]: https://github.com/nuclearsandwich/surface3-archlinux/issues/6
