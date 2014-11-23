@@ -40,6 +40,10 @@ Arch Linux and Antergos on the Microsoft Surface Pro 3. I forked this because I 
 [#8]: https://github.com/nuclearsandwich/surface3-archlinux/issues/8
 
 
+##Thanks to:
+-nuclearsandwich for intially starting this and giving tips which really helped me get the Surface Pro 3 working fine on Antergos: https://github.com/nuclearsandwich/
+-benasse for giving pointers about the Type Cover 3 but especially the Cameras: https://github.com/benasse
+
 ## Reading
 
 @rubiojr's work on Ubuntu https://github.com/rubiojr/surface3-ubuntu-trusty
