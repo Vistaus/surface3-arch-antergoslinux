@@ -14,7 +14,7 @@ Arch Linux and Antergos on the Microsoft Surface Pro 3. I forked this because I 
 * [x] [Built-in microphone]
 * [x] [Speakers]
 * [x] [Headphone jack]
-* [x] Cameras [#3]
+* [x] Cameras[#3]
 * [x] MicroSD reader
 * [ ] [MiniDisplay Port] [*untested*]
 * [ ] Docking station *not yet released*
