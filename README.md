@@ -1,6 +1,8 @@
 # Microsoft Surface Pro 3 Documentation: Antergos & Arch Linux
 
-***Arch Linux and Antergos on the Microsoft Surface Pro 3. I forked this because I wanted to reflect that there's more stuff working than initially thought and I wanted to add things like clear how-to's. Everything with a checkmark is working, everything without a checkmark isn't or might be working but is untested. Sometimes something partially works. This is denoted by additional info in cursive font. Also, you can click on most of the component names to get more info, either for getting that component to work (and seeing what doesn't work, should that be the case) or for improving the experience (for example the Onscreen keyboard one; that one's linked to a how-to I wrote).***
+***Arch Linux and Antergos on the Microsoft Surface Pro 3. I forked this because I wanted to reflect that there's more stuff working than initially thought and I wanted to add things like clear how-to's.***
+
+*Everything with a checkmark is working, everything without a checkmark isn't or might be working but is untested. Sometimes something partially works. This is denoted by additional info in cursive font. Also, you can click on most of the component names to get more info, either for getting that component to work (and seeing what doesn't work, should that be the case) or for improving the experience (for example the Onscreen keyboard one; that one's linked to a how-to I wrote).*
 
 ## Hardware
 
