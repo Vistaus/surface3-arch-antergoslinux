@@ -11,7 +11,7 @@
   * [x] trackpad - *partially*
 * [x] [WiFi][#2] - *works, but issues with resume from hibernate*
 * [x] [Bluetooth][#2] - *works, but only after installing the driver*
-* [x] Touchscreen with multitouch support
+* [x] Touchscreen with multitouch support - *works, but palm recognition does not work (yet)*
 * [x] [N-trig Surface Pen][#4] - *works, except for the OneNote button on top*
 * [x] Built-in microphone
 * [x] Speakers
